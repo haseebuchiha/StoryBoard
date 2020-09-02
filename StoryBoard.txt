@@ -1,5 +1,4 @@
 
-Shirjeel
 
 ////////////////////
 This will be the home page (Figure 1), it will have an option to do subtraction, addition. At the bottom of this it will be the instruction button so you can see how to play the game.
